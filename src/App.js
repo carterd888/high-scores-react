@@ -1,4 +1,5 @@
 import React from 'react';
+import allCountryScores from "scores.js";
 import logo from './logo.svg';
 import './App.css';
 
